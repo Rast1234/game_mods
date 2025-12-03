@@ -1,6 +1,4 @@
-# FlatOutUltimateCarnage
-
-Lapenko Characters for FOUC
+# Lapenko Characters for FlatOut Ultimate Carnage
 
 .exe with patched character names. Workshop only allows modding game resources, so you need to download this exe and place it in game folder.
 
